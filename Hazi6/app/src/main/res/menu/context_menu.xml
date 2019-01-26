@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/zold"
+        android:title="@string/color1"
+        />
+    <item
+        android:id="@+id/piros"
+        android:title="@string/color2"
+        />
+    <item
+        android:id="@+id/sarga"
+        android:title="@string/color3"
+        />
+</menu>

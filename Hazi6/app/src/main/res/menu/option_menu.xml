@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/rendez"
+        android:title="@string/rendez"
+        android:icon="@drawable/sort"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/torol"
+        android:title="@string/torol"
+        android:icon="@drawable/bin"
+        app:showAsAction="ifRoom"/>
+</menu>
